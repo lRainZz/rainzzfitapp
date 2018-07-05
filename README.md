@@ -6,8 +6,8 @@ Coming soon...
 
 ### Main colors:
 
-- #00286E Deep blue 
-- #1ED2D7 Turquoise
+- #1E3C50 Deep blue 
+- #33A5B9 Turquoise
 - #FFFFFF White
 
 ### Font colors:
@@ -17,7 +17,7 @@ Coming soon...
 ### Contrast colors:
 - #14E196 Light green 
 - #14B9E1 Light Blue
-- #E1A514 Light Orange 
+- #EB6423 Orange 
 
 ### Shadow colors:
 - #333333 Dark
