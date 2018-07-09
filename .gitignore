@@ -2,6 +2,7 @@
 /mockups/*.zip
 /mockups/*.ai
 /mockups/*.txt
+/mockups/*.psd
 
 # Built application files
 *.apk

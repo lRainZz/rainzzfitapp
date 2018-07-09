@@ -1,6 +1,11 @@
 # rainzzfitapp
 Coming soon...
 
+## Mockups
+
+### Login Screen
+![Login Mockup](mockups/Login.jpg "Login Screen Mockup")
+
 
 ## Color scheme
 
