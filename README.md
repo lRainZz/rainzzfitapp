@@ -2,9 +2,8 @@
 Coming soon...
 
 ## Mockups
-
 ### Login Screen
-![Login Mockup](mockups/Login.jpg "Login Screen Mockup")
+<img src="mockups/Login.jpg" width="30%">
 
 
 ## Color scheme
