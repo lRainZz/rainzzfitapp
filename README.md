@@ -3,11 +3,11 @@ Coming soon...
 
 ## Mockups
 
-### Login Screen
-<img src="mockups/Login.jpg" width="30%">
-
-### Main Screen Plans View
-<img src="mockups/MainScreenSplit.jpg" width="30%">
+### Login Screen, Main Screen - Plans View
+<p float="left">
+    <img src="mockups/Login.jpg" width="30%">
+    <img src="mockups/MainScreenSplit.jpg" width="30%">
+</p>
 
 
 ## Color scheme
