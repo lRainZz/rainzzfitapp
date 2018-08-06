@@ -3,10 +3,16 @@ Coming soon...
 
 ## Mockups
 
-### Login Screen, Main Screen - Plans View
+### Login Screen
 <p float="left">
     <img src="mockups/Login.jpg" width="30%">
+</p>
+
+### Main Screens
+<p float="left">
     <img src="mockups/MainScreenSplit.jpg" width="30%">
+    <div width="10px"/>
+    <img src="mockups/MainScreenMeasurements.jpg" width="30%">
 </p>
 
 
