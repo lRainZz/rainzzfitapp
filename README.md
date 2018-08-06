@@ -11,7 +11,6 @@ Coming soon...
 ### Main Screens
 <p float="left">
     <img src="mockups/MainScreenSplit.jpg" width="30%">
-    <div width="10px"/>
     <img src="mockups/MainScreenMeasurements.jpg" width="30%">
 </p>
 
